@@ -1,0 +1,18 @@
+{
+  "name": "wordslot-package",
+  "main": "./lib/wordslot-package",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "wordslot-package:toggle"
+  },
+  "repository": "https://github.com/atom/wordslot-package",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
